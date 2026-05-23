@@ -19,9 +19,13 @@
 # 🌐 Connect with me
 
 <p align="center">
-  <a href="https://github.com/DilanFlores/event-driven-distributed-system">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+<a href="https://www.linkedin.com/in/dilan-flores-mart%C3%ADnez-0611782b7/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+</a>
+
+<a href="https://github.com/DilanFlores" target="blank">
+<img src="https://skillicons.dev/icons?i=github" height="50" />
+</a>
 </p>
 
 ---
