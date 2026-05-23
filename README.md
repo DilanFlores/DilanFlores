@@ -130,7 +130,9 @@
 🔹 CI/CD practices using Jenkins and Selenium  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Coming%20Soon-0A66C2?style=for-the-badge"/>
+  <a href="https://github.com/DilanFlores/teresa-ride">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
