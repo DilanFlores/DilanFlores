@@ -18,13 +18,10 @@
 
 # 🌐 Connect with me
 
-<p align="left">
-<a href="https://linkedin.com/in/TU-LINKEDIN" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" />
-</a>
-<a href="https://github.com/DilanFlores" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="40" />
-</a>
+<p align="center">
+  <a href="https://github.com/DilanFlores/event-driven-distributed-system">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -90,6 +87,12 @@
 🔹 Background jobs with Hangfire  
 🔹 SQL Server integration  
 
+<p align="center">
+  <a href="https://github.com/DilanFlores/event-driven-distributed-system">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🛒 E-Commerce Platform
@@ -100,6 +103,12 @@
 🔹 SINPE payment workflow  
 🔹 Automated testing with Playwright  
 
+<p align="center">
+  <a href="https://github.com/DilanFlores/ecommerce-web-app">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 🚐 TeresaRide
@@ -109,6 +118,10 @@
 🔹 Vehicle reservation system  
 🔹 Built with React, Express.js and MySQL  
 🔹 CI/CD practices using Jenkins and Selenium  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Coming%20Soon-0A66C2?style=for-the-badge"/>
+</p>
 
 ---
 
