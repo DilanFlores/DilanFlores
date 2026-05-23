@@ -50,7 +50,8 @@
 ## 🗄️ Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ---
@@ -108,15 +109,6 @@
 🔹 Vehicle reservation system  
 🔹 Built with React, Express.js and MySQL  
 🔹 CI/CD practices using Jenkins and Selenium  
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=DilanFlores&theme=tokyonight&show_icons=true&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DilanFlores&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
 
 ---
 
