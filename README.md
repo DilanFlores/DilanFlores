@@ -31,10 +31,50 @@
 
 # 💻 Tech Stack
 
+## 🎨 Frontend
+
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,cs,js,ts,php,python,react,nextjs,nodejs,express,nestjs,dotnet,spring,mysql,mongodb,git,docker,jenkins,azure" />
+---
 
+## ⚙️ Backend
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,dotnet,spring,java,cs,python,php" />
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+</p>
+
+---
+
+## ☁️ Tools & Technologies
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,jenkins,azure,figma,postman" />
+</p>
+
+---
+
+## 🧪 Testing & QA
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=selenium,jest" />
+</p>
+
+---
+
+## 📡 Distributed Systems & Monitoring
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=kafka" />
 </p>
 
 ---
